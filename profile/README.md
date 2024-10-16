@@ -9,6 +9,9 @@ https://github.com/orgs/kajiLabTeam/repositories?q=stay
 ## elpis
 https://github.com/orgs/kajiLabTeam/repositories?q=elpis
 
+## 軌跡・歩行情報蓄積システム
+https://github.com/kajiLabTeam/walking-information-storage-server
+
 ## omronの環境センサープロジェクト
 https://github.com/topics/omron-kjlb
 
