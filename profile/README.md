@@ -15,6 +15,9 @@ https://github.com/orgs/kajiLabTeam/repositories?q=wiss
 ## omronの環境センサープロジェクト
 https://github.com/topics/omron-kjlb
 
+## UWBにまつわるレポジトリ
+https://github.com/orgs/kajiLabTeam/repositories?q=UWB
+
 # アーカイブ研究レポジトリ
 
 ## 胸に手を当てて
