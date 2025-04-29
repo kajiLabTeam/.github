@@ -12,6 +12,10 @@ https://github.com/orgs/kajiLabTeam/repositories?q=elpis
 ## 軌跡・歩行情報蓄積システム
 https://github.com/orgs/kajiLabTeam/repositories?q=wiss
 
+### PDR（もっとも簡単な歩行軌跡推定の導入）
+
+https://github.com/kajiLabTeam/PDR-introduction
+
 ## omronの環境センサープロジェクト
 https://github.com/topics/omron-kjlb
 
